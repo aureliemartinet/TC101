@@ -1,0 +1,1 @@
+Today, I, have, to, find, how, many, times, the, word, banana, is, written, in, this, fileI, have, to, be, able, to, recognize, the, word, even, if, there, are, some, upper, case Not, really, easy, ahah banana, BANANA, BAnana, bAnAnA, BaNaNaThe, result, should, be, six
